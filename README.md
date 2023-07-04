@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I have worked being in charge of various projects, in the governmental sphere, private sector and being the owner of products in the market.
+- 📝 I have worked being in charge of various projects, at the governmental level, private sector and being the owner of products in the market.
 
 - 📫 lets chat **querynetworking@gmail.com**
 
