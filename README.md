@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://res.cloudinary.com/ddgxkqi07/image/upload/v1686790864/logo_pymodm.png" width="200" />
     <h1 align="center">Hi! 👋, my name is Victor Hugo Toledo</h1>
-    <h2 align="center">I am a Product Manager and Full Stack Developer. More than 3 Years Designing and Developing Websites, Web Applications, Desktop Applications, Mobile Applications, etc...</h3>
+    <h2 align="center">I am a Software Engineer Full Stack. More than 4 Years Designing and Developing Websites, Web Applications, Desktop Applications, Mobile Applications, etc...</h3>
 </div>
 ---
 
